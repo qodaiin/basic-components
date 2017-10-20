@@ -1,0 +1,1 @@
+This is a sample page with a full-screen header, for articles and such.
